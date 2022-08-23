@@ -609,7 +609,7 @@
                     "type": "user-account"
                 },
                 "5": {
-                    "name": "ryuk-bin.exe",
+                    "name": "Adobe.exe",
                     "hashes": {
                         "MD5": "5ac0f050f93f86e69026faea1fbb4450"
                     },
@@ -761,7 +761,7 @@
                     "type": "user-account"
                 },
                 "5": {
-                    "name": "ryuk-bin.exe",
+                    "name": "Adobe.exe",
                     "hashes": {
                         "SHA-256": "ee32bde60d1175709fde6869daf9c63cd3227155e37f06d45a27a2f45818a3dc"
                     },
