@@ -39,7 +39,7 @@
                     "type": "user-account"
                 },
                 "5": {
-                    "name": "hundercla.vpa",
+                    "name": "bnslib.dll",
                     "hashes": {
                         "SHA-224": "47FfE981EC33a89EDA648A1fc7Ab4DddF7A23Cf1B45810BafA2BBCa6"
                     },
@@ -77,7 +77,7 @@
                     "type": "user-account"
                 },
                 "5": {
-                    "name": "retence-landfil.urls",
+                    "name": "bnslib.dll",
                     "hashes": {
                         "SHA-224": "6c4E3f590CDFA1cEF2Aec8292b5Aa14A5dc3cEE459aDEC549C56FeFe"
                     },
@@ -115,7 +115,7 @@
                     "type": "user-account"
                 },
                 "5": {
-                    "name": "ayabout-microscope-perpetrator.bup",
+                    "name": "bnslib.dll",
                     "hashes": {
                         "RIPEMD-160": "A4EF9cb01cfAcDF070DE3Ebf21100ecD89cdeb8f"
                     },
